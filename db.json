@@ -1,0 +1,62 @@
+{
+    "perfil": {
+      "nome": "Theodoro Augusto de Brito Spadinger Motter",
+      "descricao": "Bem-vindo ao meu perfil, estudei Engenharia de Controle e Automação na IFMG, Sistemas para Internet na PUC e agora estou realizando o curso de Ciências da Computação na PUC - Praça da Liberdade!",
+      "localizacao": "Belo Horizonte, Minas Gerais"
+    },
+    "conteudosSugeridos": [
+      {
+        "id": 1,
+        "titulo": "HTML5",
+        "descricao": "Curso completo de HTML5 para iniciantes",
+        "urlImagemCapa": "./img/html5.jpg",
+        "urlConteudo": "https://www.udemy.com/course/web-html5-css3-javascript/"
+      },
+      {
+        "id": 2,
+        "titulo": "CSS3",
+        "descricao": "Curso completo de CSS3 e estilização avançada",
+        "urlImagemCapa": "./img/123_css3.jpg",
+        "urlConteudo": "https://www.udemy.com/course/curso-completo-de-css3-hugo/"
+      },
+      {
+        "id": 3,
+        "titulo": "Bootstrap",
+        "descricao": "Curso completo de Framework CSS para desenvolvimento ágil",
+        "urlImagemCapa": "./img/bootstrap.jpg",
+        "urlConteudo": "https://www.udemy.com/course/bootstrap-4-completo/"
+      }
+    ],
+    "colegasDeTrabalho": [
+      {
+        "id": 1,
+        "nome": "Leona C. Hazard",
+        "urlFoto": "/img/persona1.avif",
+        "urlGitHub": "https://github.com/"
+      },
+      {
+        "id": 2,
+        "nome": "Laura N. Raley",
+        "urlFoto": "/img/persona2.avif",
+        "urlGitHub": "https://github.com/"
+      },
+      {
+        "id": 3,
+        "nome": "Scott P. Gilpin",
+        "urlFoto": "/img/persona3.avif",
+        "urlGitHub": "https://github.com/"
+      },
+      {
+        "id": 4,
+        "nome": "Jennifer J. Thedford",
+        "urlFoto": "/img/persona4.avif",
+        "urlGitHub": "https://github.com/"
+      },
+      {
+        "id": 5,
+        "nome": "Ronald S. Oliver",
+        "urlFoto": "/img/persona5.avif",
+        "urlGitHub": "https://github.com/"
+      }
+    ]
+  }
