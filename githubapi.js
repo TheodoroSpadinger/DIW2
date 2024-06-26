@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
  
-  const token = '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'; 
+  const token = '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'; 
   const reposUrl = `https://api.github.com/users/${username}/repos`;
 
   
